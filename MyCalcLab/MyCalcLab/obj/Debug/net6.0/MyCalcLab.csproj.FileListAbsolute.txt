@@ -1,0 +1,12 @@
+D:\WORK\UnitTesting\MyCalcLab\MyCalcLab\bin\Debug\net6.0\MyCalcLab.deps.json
+D:\WORK\UnitTesting\MyCalcLab\MyCalcLab\bin\Debug\net6.0\MyCalcLab.dll
+D:\WORK\UnitTesting\MyCalcLab\MyCalcLab\bin\Debug\net6.0\MyCalcLab.pdb
+D:\WORK\UnitTesting\MyCalcLab\MyCalcLab\obj\Debug\net6.0\MyCalcLab.csproj.AssemblyReference.cache
+D:\WORK\UnitTesting\MyCalcLab\MyCalcLab\obj\Debug\net6.0\MyCalcLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\UnitTesting\MyCalcLab\MyCalcLab\obj\Debug\net6.0\MyCalcLab.AssemblyInfoInputs.cache
+D:\WORK\UnitTesting\MyCalcLab\MyCalcLab\obj\Debug\net6.0\MyCalcLab.AssemblyInfo.cs
+D:\WORK\UnitTesting\MyCalcLab\MyCalcLab\obj\Debug\net6.0\MyCalcLab.csproj.CoreCompileInputs.cache
+D:\WORK\UnitTesting\MyCalcLab\MyCalcLab\obj\Debug\net6.0\MyCalcLab.dll
+D:\WORK\UnitTesting\MyCalcLab\MyCalcLab\obj\Debug\net6.0\refint\MyCalcLab.dll
+D:\WORK\UnitTesting\MyCalcLab\MyCalcLab\obj\Debug\net6.0\MyCalcLab.pdb
+D:\WORK\UnitTesting\MyCalcLab\MyCalcLab\obj\Debug\net6.0\ref\MyCalcLab.dll
